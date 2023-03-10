@@ -4,3 +4,4 @@ Current weather forecast shows New Delhi's weather.
 
 Made use of API from weatherapi.
 includes html,java script and css.
+
