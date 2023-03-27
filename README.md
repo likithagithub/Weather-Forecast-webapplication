@@ -1,5 +1,5 @@
 # Weather-Forecast-webapplication
-App for users to see the current weather and the weather forecast for the next 7 days of any city in the world.
+Web app for users to check the current weather and the weather forecast for next 7 days of any city in the world.
 Current weather forecast shows New Delhi's weather. You can type the city name in the search bar and click on search button to view the details. If the city name is not found it shows an error message.
 
 Made use of  html,java script,css and weather API.
